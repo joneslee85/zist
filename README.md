@@ -6,18 +6,18 @@ zist is a blogging engine that embraces gist.io to store posts
 
 Clone the app first then:
 
-  $ bundle install
-  $ bundle exec rake db:migrate
+    $ bundle install
+    $ bundle exec rake db:migrate
 
 ## Running Tests
 
 You can run all tests by:
 
-  $ bundle exec rake test
+    $ bundle exec rake test
 
 ## Contributing
 
-zist is an ope source project and I encourage contributions. Please fork and submit pull request.
+zist is an open source project and I encourage contributions. Please fork and submit pull request.
 
 ## Authors
 
