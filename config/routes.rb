@@ -1,3 +1,3 @@
-Cyst::Application.routes.draw do
+Zist::Application.routes.draw do
   resources :posts
 end
